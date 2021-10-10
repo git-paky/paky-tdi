@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @paky-tdi
+- 👀 I’m interested in car culture
+- 🌱 I’m currently learning c++
+- 📫 How to reach me: varvari.patrick@gmail.com
